@@ -3,6 +3,7 @@ public class TextMessage
     private String message;
     private String sender;
     private String receiver;
+    private String hello;
     
     public TextMessage(String from, String to, String theMessage)
     {
